@@ -1,10 +1,10 @@
-container::after{
+#container::after{
 	content:"After Element";
 	margin:20px;
 	color:red;
 	font-size:20px;
 }
-container::before{
+#container::before{
 	content:"Before Element";
 	margin:20px;
 	color:red;
